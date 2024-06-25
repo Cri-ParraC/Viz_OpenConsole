@@ -1,22 +1,22 @@
 //=============================================================================
-// Viz_OpenConsole.js [MZ] (v1.0.1)
+// Viz_OpenConsole.js [MZ] (v1.0.2)
 //=============================================================================
 
 /*:
  * @target MZ
- * @plugindesc [MZ] (v1.0.1) Abre la consola en segundo plano tras iniciar el juego.
+ * @plugindesc [MZ] (v1.0.2) Abre la consola en segundo plano tras iniciar el juego.
  * @author Vizcacha
- * @version 1.0.1
+ * @version 1.0.2
  * @url https://github.com/Cri-ParraC/Viz_OpenConsole
- * @help Viz_OpenConsole.js [MZ] (v1.0.1)
- * 
+ * @help Viz_OpenConsole.js [MZ] (v1.0.2)
+ * ----------------------------------------------------------------------------
  * Plugin sencillo para RPG Maker MZ que abre la consola "DevTools" y la deja en
  * segundo plano.
  */
 
 (() => {
   "use strict";
-  console.info("Viz_OpenConsole.js [MZ] (v1.0.1) activado");
+  console.info("Viz_OpenConsole.js [MZ] (v1.0.2) activado");
 
   nw.Window.get().showDevTools();
 
