@@ -1,6 +1,8 @@
-# Viz_OpenConsole.js [MZ] (v1.0.2)
+# Viz_OpenConsole.js [MZ] (v1.1.0)
 
-Plugin simple que abre la consola "DevTools" y la deja en segundo plano.
+Plugin sencillo para RPG Maker MZ que abre la consola "DevTools" y la deja en segundo plano.
+
+También activa el contador de FPS.
 
 Descargar plugin en Windows (Powershell):
 ```powershell
